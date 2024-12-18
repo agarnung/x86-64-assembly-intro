@@ -2,11 +2,14 @@
 Introductory exercises to assembly language.
 
 > [!IMPORTANT]
-> Be sure your machine uses a x86_64 processor: $ uname -a
+> Be sure your machine uses a x86_64 processor: $ ```uname -a```
 
 The exercies are biased towards the 80386-based processors supporting _protected_ mode, rather than classic 8086-based processors supporting the more insecure _active_ mode. 
 
-The open source NASM assembler is used to run the scripts: $ sudo apt-get install nasm
+The open source NASM assembler is used to run the scripts: $ 
+```<sh>
+sudo apt-get install nasm
+```
 
 This code is (and will be) based on the listed references.
 
