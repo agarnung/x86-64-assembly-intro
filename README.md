@@ -11,7 +11,13 @@ The open source NASM assembler is used to run the scripts: $
 sudo apt-get install nasm
 ```
 
-This code is (and will be) based on the listed references.
+How to compile and link a .asm code?:  
+```<sh>
+nasm -f elf64 -o code.o code.asm
+ld code.o -o code
+```
+
+These exercises are (and will be) based on the listed references.
 
 **References**:
 
