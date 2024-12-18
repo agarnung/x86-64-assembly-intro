@@ -1,7 +1,7 @@
 # x86-64-assembly-intro
 Introductory exercises to assembly language.
 
-The exercies are biased to the 80386-based processors supporting _protected_ mode, rather than classic 8086-based processors supporting more insecure _active_ mode.
+The exercies are biased towards the 80386-based processors supporting _protected_ mode, rather than classic 8086-based processors supporting more insecure _active_ mode.
 
 The open source NASM assembler is used to run the scripts.
 
