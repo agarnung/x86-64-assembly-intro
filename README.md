@@ -17,7 +17,7 @@ nasm -f elf64 -o code.o code.asm
 ld code.o -o code
 ```
 
-This code is (and will be) based on the listed references.
+These exercises are (and will be) based on the listed references.
 
 **References**:
 
