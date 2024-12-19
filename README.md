@@ -2,19 +2,18 @@
 Introductory exercises to assembly language.
 
 > [!IMPORTANT]
-> Be sure your machine uses a x86_64 processor: $ ```uname -a```
+> Be sure your machine uses a x86_64 processor: ```uname -a```
 
-The exercies are biased towards the 80386-based processors supporting _protected_ mode, rather than classic 8086-based processors supporting the more insecure _active_ mode. 
+The exercies are biased towards the 80386-based processors supporting _protected_ mode, rather than classic 8086-based processors supporting the more insecure _active_ mode. The code is run on a 64-bit Linux machine with a 12th Gen Intel(R) Core(TM) i7-12650H CPU.
 
-The open source NASM assembler is used to run the scripts: $ 
+The open source NASM assembler is used to run the scripts:
 ```<sh>
 sudo apt-get install nasm
 ```
 
-How to compile and link a .asm code?:  
+How to compile, link and run a .asm code? Execute the provided shell script with the target folder's name as input argument, e.g.:  
 ```<sh>
-nasm -f elf64 -o code.o code.asm
-ld code.o -o code
+chmod 755 my-run_asm.sh && ./run_asm.sh ./ex1
 ```
 
 These exercises are (and will be) based on the listed references.
