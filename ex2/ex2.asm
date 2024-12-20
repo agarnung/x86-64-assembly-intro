@@ -3,7 +3,7 @@ section .data
 	num2 dw 10            ; define a word (2 bytes) with value 10
 	msg db "5 + 10 = ASCII conversion necesary!", 10 ; define an ASCII message with line jump (0x0A = 10)
 	len equ $ - msg       ; calculate the length of the message
-	
+	 
 section .bss ; section containing uninitialized data	
 	result resb 6  ; space for ASCII result (max. 5 digits + null)
 
