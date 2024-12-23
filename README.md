@@ -4,7 +4,7 @@ Introductory exercises to assembly language.
 > [!IMPORTANT]
 > Be sure your machine uses a x86_64 processor: ```uname -a```
 
-The exercies are biased towards the 80386-based processors supporting _protected_ mode, rather than classic 8086-based processors supporting the more insecure _active_ mode. The code is run on a 64-bit Linux machine with a 12th Gen Intel(R) Core(TM) i7-12650H CPU.
+The exercies are biased towards the x86-based processors supporting _protected_ mode, rather than the more insecure _active_ mode. The code is run on a 64-bit Linux machine with a 12th Gen Intel(R) Core(TM) i7-12650H CPU.
 
 The open source NASM assembler is used to run the scripts:
 ```<sh>
@@ -28,5 +28,9 @@ These exercises are (and will be) based on the listed references.
   - https://github.com/code-tutorials/assembly-intro
   - https://p403n1x87.github.io/getting-started-with-x86-64-assembly-on-linux.html
   - https://cratecode.com/info/nasm-tutorial
+  - https://github.com/7h3w4lk3r/x86-nasm
+  - https://www.tutorialspoint.com/assembly_programming/index.htm
+  - List of syscalls: https://filippo.io/linux-syscall-table/
+  - https://asmtutor.com/
 3. Videos
   - https://www.youtube.com/watch?v=VQAKkuLL31g&list=PLetF-YjXm-sCH6FrTz4AQhfH6INDQvQSn (series by @kupala)
