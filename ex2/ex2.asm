@@ -4,6 +4,8 @@ section .data
 	msg db "5 + 10 = ASCII conversion necesary!", 10 ; define an ASCII message with line jump (0x0A = 10)
 	len equ $ - msg       ; calculate the length of the message
 	 
+; The BSS section is similar to the data section, except it's all zero-initialized
+; That means it doesn't need to actually take up space in the executable file
 section .bss ; section containing uninitialized data	
 	result resb 6  ; space for ASCII result (max. 5 digits + null)
 
