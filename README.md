@@ -34,3 +34,5 @@ These exercises are (and will be) based on the listed references.
   - https://asmtutor.com/
 3. Videos
   - https://www.youtube.com/watch?v=VQAKkuLL31g&list=PLetF-YjXm-sCH6FrTz4AQhfH6INDQvQSn (series by @kupala)
+4. Other
+  - https://www.cs.virginia.edu/~jh2jf/courses/cs2130/spring2023/lectures/21-assembly.pdf
