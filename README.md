@@ -30,9 +30,10 @@ These exercises are (and will be) based on the listed references.
   - https://cratecode.com/info/nasm-tutorial
   - https://github.com/7h3w4lk3r/x86-nasm
   - https://www.tutorialspoint.com/assembly_programming/index.htm
-  - List of syscalls: https://filippo.io/linux-syscall-table/
   - https://asmtutor.com/
+  - https://www.tutorialspoint.com/assembly_programming/assembly_macros.htm
 3. Videos
   - https://www.youtube.com/watch?v=VQAKkuLL31g&list=PLetF-YjXm-sCH6FrTz4AQhfH6INDQvQSn (series by @kupala)
 4. Other
   - https://www.cs.virginia.edu/~jh2jf/courses/cs2130/spring2023/lectures/21-assembly.pdf
+  - List of syscalls: https://filippo.io/linux-syscall-table/
