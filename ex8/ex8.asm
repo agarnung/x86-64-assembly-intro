@@ -18,7 +18,7 @@ section .bss
 	sum resb 1                                ; Reserve 1 byte for storing the sum result
 
 section .text
-globa	l _start
+	global _start
 
 _start:
 	; Prompt user for the first number
