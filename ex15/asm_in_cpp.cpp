@@ -6,7 +6,8 @@
 //
 // extern "C" is necessary when you want to ensure that C functions or assembly
 // functions are compatible with the C++ linkage. By the way, here the assembly code
-// is inside the main() function and we aren't linking external functions
+// is inside the main() function and we aren't linking external functions.
+// E.g., if ex13 where in C++, its external functions should be declared extern "C" instead of just extern
 //extern "C" {
 //    void asm_function(); 
 //}
