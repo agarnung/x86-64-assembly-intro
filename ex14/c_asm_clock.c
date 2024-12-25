@@ -2,9 +2,9 @@
 //
 // To compile: $ gcc -o c_asm_clock c_asm_clock.c
 // 
-// To run: ./c_asm_clock 500000000000 
+// To run: $ ./c_asm_clock 500000000000 
 // 
-// Specifying list of arguments in Extended Assembly is optional
+// Specifying list of operands in Extended Assembly is optional
 //asm ( "assembly code"
 //           : output operands                  /* optional */
 //           : input operands                   /* optional */
