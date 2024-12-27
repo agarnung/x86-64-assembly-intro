@@ -16,7 +16,7 @@ section	.text
 _start: ; tell linker the entry point
 	; Open or create the file (syscall: open, rax=2)
 	mov rax, 2              ; Syscall number for open
-	lea rdi, [file_name]    ; Pointer to the file name
+	lea rdi, [file_name]    ; Pointer to the file name (LEA loads the address, MOV loads the value)
 	mov rsi, 577            ; Flags: O_WRONLY | O_CREAT (0x1 | 0x40 = 577)
 	mov rdx, 0777           ; Mode: rwxrwxrwx
 	syscall                 ; Call the kernel
@@ -27,7 +27,7 @@ _start: ; tell linker the entry point
 	; Write to the file (syscall: write, rax=1)
 	mov rax, 1              ; Syscall number for write
 	mov rdi, rbx            ; File descriptor
-	lea rsi, [msg]          ; Pointer to the message
+	lea rsi, [msg]          ; Pointer to the message (LEA loads the address, MOV loads the value)
 	mov rdx, len            ; Length of the message
 	syscall                 ; Call the kernel
 
