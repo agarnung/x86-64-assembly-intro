@@ -33,7 +33,7 @@ These exercises are (and will be) based on the listed references.
   - https://github.com/7h3w4lk3r/x86-nasm
   - https://www.tutorialspoint.com/assembly_programming/index.htm
   - https://asmtutor.com/
-  - https://www.tutorialspoint.com/assembly_programming/assembly_macros.htm
+  - https://stackoverflow.com/questions/2352048/to-learn-assembly-should-i-start-with-32-bit-or-64-bit
 3. Videos
   - https://www.youtube.com/watch?v=VQAKkuLL31g&list=PLetF-YjXm-sCH6FrTz4AQhfH6INDQvQSn (series by @kupala)
 4. Other
