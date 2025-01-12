@@ -20,6 +20,11 @@ chmod 755 my-run_asm.sh && ./run_asm.sh ./ex1
 
 These exercises are (and will be) based on the listed references.
 
+## Index
+[ex01](https://github.com/agarnung/x86-64-assembly-intro/tree/main/ex01): ...
+[ex02](https://github.com/agarnung/x86-64-assembly-intro/tree/main/ex02): ...
+...
+
 **References**:
 
 1. Books
