@@ -5,7 +5,6 @@ Introductory exercises to assembly language.
 > Be sure your machine uses a x86_64 processor: ```uname -a```
 
 ## About
-
 The exercies are biased towards the x86-based processors supporting _protected_ mode, rather than the more insecure _active_ mode. The code is run on a 64-bit Linux machine with a 12th Gen Intel(R) Core(TM) i7-12650H CPU.
 
 Assembly language appears in two flavors: Intel Style & AT&T style. GNU C compiler (i.e. GCC) uses AT&T. But the exercises will be in Intel style (e.g. NASM). There are several syntax differences, see [this](https://www.codeproject.com/Articles/15971/Using-Inline-Assembly-in-C-Cplusplus) and [that](https://imada.sdu.dk/u/kslarsen/dm546/Material/IntelnATT.htm).
@@ -28,7 +27,6 @@ These exercises are (and will be) based on the listed references.
 - ...
   
 ## References:
-
 1. Books
   - https://pacman128.github.io/static/pcasm-book.pdf (Paul A. Carter, 2019)
   - https://jagdishkapadnis.wordpress.com/wp-content/uploads/2015/05/assembly-language-step-by-step-programming-with-linux-3rd-edition.pdf (Jeff Duntemann, 2009)
