@@ -19,14 +19,14 @@ How to compile, link and run a .asm code? Execute the provided shell script with
 chmod 755 my-run_asm.sh && ./run_asm.sh ./ex1
 ```
 
-These exercises are (and will be) based on the listed references.
-
 ## Index
 - [ex01](https://github.com/agarnung/x86-64-assembly-intro/tree/main/ex01): ...
 - [ex02](https://github.com/agarnung/x86-64-assembly-intro/tree/main/ex02): ...
 - ...
   
 ## References:
+These exercises are (and will be) based on the listed references:
+
 1. Books
   - https://pacman128.github.io/static/pcasm-book.pdf (Paul A. Carter, 2019)
   - https://jagdishkapadnis.wordpress.com/wp-content/uploads/2015/05/assembly-language-step-by-step-programming-with-linux-3rd-edition.pdf (Jeff Duntemann, 2009)
