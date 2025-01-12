@@ -26,7 +26,6 @@ chmod 755 my-run_asm.sh && ./run_asm.sh ./ex1
   
 ## References:
 These exercises are (and will be) based on the listed references:
-
 1. Books
   - https://pacman128.github.io/static/pcasm-book.pdf (Paul A. Carter, 2019)
   - https://jagdishkapadnis.wordpress.com/wp-content/uploads/2015/05/assembly-language-step-by-step-programming-with-linux-3rd-edition.pdf (Jeff Duntemann, 2009)
