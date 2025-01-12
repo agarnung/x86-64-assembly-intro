@@ -28,6 +28,7 @@ These exercises are (and will be) based on the listed references.
 2. Links
   - https://en.wikipedia.org/wiki/Assembly_language#%22Hello,_world!%22_on_x86_Linux
   - https://github.com/code-tutorials/assembly-intro
+  - https://github.com/luamfb/intro_x86-64
   - https://p403n1x87.github.io/getting-started-with-x86-64-assembly-on-linux.html
   - https://cratecode.com/info/nasm-tutorial
   - https://github.com/7h3w4lk3r/x86-nasm
