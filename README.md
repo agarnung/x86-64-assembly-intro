@@ -29,7 +29,6 @@ These exercises are (and will be) based on the listed references.
   - https://en.wikipedia.org/wiki/Assembly_language#%22Hello,_world!%22_on_x86_Linux
   - https://p403n1x87.github.io/getting-started-with-x86-64-assembly-on-linux.html
   - https://cratecode.com/info/nasm-tutorial
-  - https://github.com/7h3w4lk3r/x86-nasm
   - https://www.tutorialspoint.com/assembly_programming/index.htm
   - https://asmtutor.com/
   - https://stackoverflow.com/questions/2352048/to-learn-assembly-should-i-start-with-32-bit-or-64-bit
@@ -38,6 +37,7 @@ These exercises are (and will be) based on the listed references.
 4. Repos
   - https://github.com/code-tutorials/assembly-intro
   - https://github.com/luamfb/intro_x86-64
+  - https://github.com/7h3w4lk3r/x86-nasm
 5. Other
   - https://www.cs.virginia.edu/~jh2jf/courses/cs2130/spring2023/lectures/21-assembly.pdf
   - List of syscalls: https://filippo.io/linux-syscall-table/
